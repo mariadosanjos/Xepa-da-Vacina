@@ -44,4 +44,4 @@ seguinte, Pedro. Seguindo a lógica, avançando 4 elementos, o elemento a ser re
 Pedro. O pointer é avançado para o elemento seguinte, Amanda, e o processo segue
 adiante até que as q doses sejam aplicadas.
 
-![title](img\sorteio.png)
+![title](img/sorteio.png)
